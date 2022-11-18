@@ -11,7 +11,6 @@ In the project directory, you can run:
 
 The page will reload when you make changes.\
 
-### `npm test`
 
 
 ### `npm run build`
